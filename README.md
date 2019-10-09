@@ -1,5 +1,7 @@
 # AmExpert-2019-ML-Hackathon
 
+![AmExpert Hackathon top](https://github.com/vibhor98/AmExpert-2019-ML-Hackathon/blob/master/Screenshot%202019-10-09%20at%205.36.03%20PM.png)
+
 ## Problem Statement
 
 ### Predicting Coupon Redemption
