@@ -24,6 +24,8 @@ Based on the previous transactions & performance data from the last 18 campaigns
 
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
 
+![](https://github.com/vibhor98/AmExpert-2019-ML-Hackathon/blob/master/Screenshot%202019-10-09%20at%205.45.11%20PM.png)
+
 You are provided with the following files in train.zip:
 
 **train.csv:** Train data containing the coupons offered to the given customers under the 18 campaigns
