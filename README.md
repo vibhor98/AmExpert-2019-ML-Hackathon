@@ -31,7 +31,7 @@ You are provided with the following files in train.zip:
 **train.csv:** Train data containing the coupons offered to the given customers under the 18 campaigns
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | id | Unique id for coupon customer impression |
 | campaign_id	| Unique id for a discount campaign |
 | coupon_id	| Unique id for a discount coupon |
@@ -41,7 +41,7 @@ You are provided with the following files in train.zip:
 **campaign_data.csv:** Campaign information for each of the 28 campaigns
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | campaign_id	| Unique id for a discount campaign |
 | campaign_type	| Anonymised Campaign Type (X/Y) |
 | start_date | Campaign Start Date |
@@ -50,14 +50,14 @@ You are provided with the following files in train.zip:
 **coupon_item_mapping.csv:** Mapping of coupon and items valid for discount under that coupon
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | coupon_id	| Unique id for a discount coupon (no order) |
 | item_id	| Unique id for items for which given coupon is valid (no order) |
 
 **customer_demographics.csv:** Customer demographic information for some customers
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | customer_id	| Unique id for a customer |
 | age_range	| Age range of customer family in years |
 | marital_status	| Married/Single |
@@ -69,7 +69,7 @@ You are provided with the following files in train.zip:
 **customer_transaction_data.csv:** Transaction data for all customers for duration of campaigns in the train data
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | date | Date of Transaction |
 | customer_id	| Unique id for a customer |
 | item_id	| Unique id for item |
@@ -81,7 +81,7 @@ You are provided with the following files in train.zip:
 **item_data.csv:** Item information for each item sold by the retailer
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | item_id	| Unique id for item |
 | brand	| Unique id for item brand |
 | brand_type | Brand Type (local/Established) |
@@ -90,7 +90,7 @@ You are provided with the following files in train.zip:
 **test.csv:** Contains the coupon customer combination for which redemption status is to be predicted
 
 | Variable | Definition |
-| :------: | :--------: |
+| :------- | :--------- |
 | id | Unique id for coupon customer impression |
 | campaign_id	| Unique id for a discount campaign |
 | coupon_id	| Unique id for a discount coupon |
